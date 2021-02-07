@@ -1,0 +1,6 @@
+utils\HBaseUtils.class
+utils\PropertiesUtils.class
+utils\ConnectionInstance.class
+hbase\CalleeWriteObserver.class
+hbase\HBaseDAO.class
+kafka\HBaseConsumer.class
